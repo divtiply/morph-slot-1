@@ -26,6 +26,6 @@ scrapy-mysql-pipeline==2019.7.19
 scrapy==1.7.3
 service-identity==18.1.0
 six==1.12.0
-twisted==19.7.0 ; python_version != '3.4'
+twisted==22.4.0 ; python_version != '3.4'
 w3lib==1.21.0
 zope.interface==4.6.0
